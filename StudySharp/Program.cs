@@ -11,7 +11,7 @@ namespace StudySharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hellow world!");
-            Calculator.Add(10, 10);
+            Calculator.Add(11, 10);
             Console.ReadKey();
         }
     }
